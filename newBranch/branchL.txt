@@ -5,3 +5,6 @@ Will be created a new branch, will be shown an error, or anything else?
 Okay, there was an error.
 
 So, but I pulled the commits, now I have message that there is a merge somewhere. I don't see it.
+
+Okay I see, to have a clear direct history I need to pull all new commits before pushing my changes into the remote repository.
+It's clear at least.
