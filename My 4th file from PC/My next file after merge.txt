@@ -1,0 +1,1 @@
+I have accidentally merged to branches and I didn't understand how I have done that. So, that one more commit with changes in this file. 
