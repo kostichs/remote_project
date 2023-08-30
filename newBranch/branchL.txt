@@ -1,3 +1,7 @@
 This change should show me how will look the history of commits, if 
 Laptop repository is behind the head of the remote repo. 
 Will be created a new branch, will be shown an error, or anything else? 
+
+Okay, there was an error.
+
+So, but I pulled the commits, now I have message that there is a merge somewhere. I don't see it.
