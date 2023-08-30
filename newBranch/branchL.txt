@@ -1,0 +1,3 @@
+This change should show me how will look the history of commits, if 
+Laptop repository is behind the head of the remote repo. 
+Will be created a new branch, will be shown an error, or anything else? 
