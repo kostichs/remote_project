@@ -10,3 +10,5 @@ Okay I see, to have a clear direct history I need to pull all new commits before
 It's clear at least.
 
 I will make two changes. This is the first one.
+
+And this is the second one.
